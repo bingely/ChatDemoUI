@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\locSDK_3.3-7531f13f004c1de7791d17455446b2b3b09760f6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\easemobchat_2.2.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="260c6c85bcec2fbc1e66abaa6a4a74ad7a23b114">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\easemobchat_2.2.9-9e6eaf8cc369815ef67717b48f899149893b422a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\Parse-1.9.4-1f0a6e176cef2961ce4e0b78cd38938339f4e43d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\google-play-services-5913930e2f50a0bcee20b74ed50b400260ec2942.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\picasso-2.4.0-cebd7a511e155a8f288bd8bc3e7b133e31e34c39.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-3160e49cb39ef38ac7592df3ab0aa577357f8c4b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\android-support-v4-b795d34654cb4b66fe615db521e19d45b6fb0323.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4-1828859dc67d82bc6a90da157673b5a00c5cb0a3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-fa62a09c839057f16b48a5c68c6c4ceb489134ec.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01298c1280e97b7367a55252f66a8f19fd494d35">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_2_2_19-a8258d1a9eeef05f0c3555121c132b0f7fd00bc2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\private\examples\ChatDemoUI\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="D:\AndroidStudioProjects\private\examples\ChatDemoUI\build\intermediates\pre-dexed\debug\org.apache.http.legacy-d58f44678fd6cc674bc95f90df411dc4e300dce6.jar" />
+    </item>
+
+</items>
